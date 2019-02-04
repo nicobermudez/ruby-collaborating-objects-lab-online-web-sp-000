@@ -25,6 +25,7 @@ class Artist
       artist.new(name)
     else
       self.artist.name = name
+    end
 
   end
 
