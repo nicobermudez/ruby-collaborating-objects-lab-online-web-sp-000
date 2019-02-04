@@ -13,7 +13,7 @@ class Artist
   end
 
   def save
-    @@all << artist
+    @@all << name
   end
 
 end
