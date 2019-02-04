@@ -24,4 +24,8 @@ class Artist
     
   end
 
+  def print_songs
+    @songs.times {|song| puts song}
+  end
+
 end
